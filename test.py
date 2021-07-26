@@ -1,2 +1,5 @@
-for n in range(2):
- print(n)
+for n in range(26):
+ print(1+n%13)
+
+
+print(2%10)
